@@ -4,7 +4,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases my skills and pr
 
 ## Skills
 
-- **Advanced Excel**: Proficient in Excel for data analysis, including advanced formulas, functions, and pivot tables.
+- **Advanced Excel**:  ![Excel Logo] Proficient in Excel for data analysis, including advanced formulas, functions, and pivot tables.
 - **Power BI**: Experienced in creating interactive and insightful dashboards using Power BI.
 - **MySQL**: Skilled in database management and querying using MySQL.
 - **Tableau**: Proficient in creating visually appealing and interactive visualizations with Tableau.
